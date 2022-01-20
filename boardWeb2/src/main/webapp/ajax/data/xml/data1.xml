@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+	<!-- 태그 이름이 같으면 배열로 값을 받아 올 수 있음 -->
+	<book>
+		<name>책이름1</name>
+		<publisher>출판사1</publisher>
+		<author>저자1</author>
+		<price>10000원</price>
+	</book>
+	<book>
+	<!-- 구조가 같으면 반복문으로 가져오기에 편하다 -->
+		<name>책이름2</name>
+		<publisher>출판사2</publisher>
+		<author>저자2</author>
+		<price>15000원</price>
+	</book>
+</books>
