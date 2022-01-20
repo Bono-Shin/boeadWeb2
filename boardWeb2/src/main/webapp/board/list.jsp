@@ -117,7 +117,7 @@
 <!-- 합쳐지고 최소화된 최신 자바스크립트 -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
 <script>
-	//검색을 json으로 비동기 처리 하기 위한 작업
+	//검색을 json으로 비동기 처리 하기 위한 작업.
 	function SCH(){
 		$.ajax({
 			url : "listSearch.jsp",
